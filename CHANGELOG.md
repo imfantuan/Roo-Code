@@ -1,8 +1,6 @@
 # Roo Code Changelog
 
-## 3.2.8
-
-### Patch Changes
+## [3.2.8]
 
 - Fix button to open custom modes settings
 
